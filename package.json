@@ -1,0 +1,23 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "simple application to start learning electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pputnam-NAVEX/electron-practice.git"
+  },
+  "author": "Philip Putnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pputnam-NAVEX/electron-practice/issues"
+  },
+  "homepage": "https://github.com/pputnam-NAVEX/electron-practice#readme",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
